@@ -19,7 +19,7 @@ page = st.sidebar.selectbox("Select Page",["Introduction ğŸ“˜","Visualization ğŸ
 
 #st.video("video.mp4")
 
-st.image("Image1.jpeg")
+st.image("lab-5-data-sci-image.jpeg")
 
 st.title("Diabetes - Patients Information")
 
